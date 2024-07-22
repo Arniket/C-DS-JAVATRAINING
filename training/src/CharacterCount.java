@@ -1,6 +1,6 @@
 public class CharacterCount {
     public static void main(String[] args) {
-        String str = "Hello, World!";
+        String str = "valorant";
         int count = 0;
 
         // Loop through the string and count each character
